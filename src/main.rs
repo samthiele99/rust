@@ -1,9 +1,9 @@
 //mod print;
 //mod types;
-mod vectors;
+mod structs;
 
 fn main() {
-    vectors::run();
+    structs::run();
 }
 
 
